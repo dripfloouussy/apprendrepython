@@ -4,4 +4,4 @@ longueur = float(input("longueur:"))
 largeur = float(input("largeur:"))
 
 area = longueur*largeur 
-print(area)
+print(f"The area is : {area}cm²")
