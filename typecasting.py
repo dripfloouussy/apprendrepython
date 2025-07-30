@@ -2,7 +2,7 @@
 #                 str(), int(), float(), bool()
 
 name = "Floussy"
-age = 23
+age = 27
 gpa = 4.5
 is_wealthy = True
 
