@@ -7,6 +7,8 @@ friends = 5
 #friends = friends *3
 #firiends *=3
 #friends /= 2
-friends = friends ** 2 
+#friends = friends ** 2 
+#friends **=2
 
-print(friends)
+remainder = friends % 3
+print(remainder)
